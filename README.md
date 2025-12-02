@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicholas Parent</h1>
 <h3 align="center">An Aspiring Full Stack Engineer</h3>
 
-- 🔭 I’m currently working on [MyBooks](https://github.com/nicklparent/myBooks)
-
 - 👨‍💻 All of my projects are available at [https://nicklparent.github.io/portfolio/](https://nicklparent.github.io/portfolio/)
 
 - 📫 Reach me **Nick.lparent@outlook.com**
